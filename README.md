@@ -11,10 +11,9 @@ This project analyzes gene sequences from a FASTA file using Biopython. It was b
 A FASTA file containing gene sequences (e.g., `genes.fa`)
 
 ## 💻 Output
-Text files with:
-- Sequence classifications
-- Highest GC content gene
+Text file with:
 - Total and longest gene summary
+- also gives output of the count of GCGC,counts the total genes and gives shortest and longest and also does gc_content analysis
 
 ## 🧪 Built With
 - Python 3
